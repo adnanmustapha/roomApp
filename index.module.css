@@ -1,4 +1,4 @@
-.home-container {
+.container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-roomies {
+.roomies {
   width: 375px;
   height: 4469px;
   display: flex;
@@ -17,14 +17,14 @@
   border-color: transparent;
   background-color: rgba(255, 255, 255, 1);
 }
-.home-menu {
+.menu {
   top: 44px;
   left: 323px;
   width: 32px;
   height: 24px;
   position: absolute;
 }
-.home-welcometext {
+.welcometext {
   top: 84px;
   left: 29px;
   width: 317px;
@@ -46,7 +46,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text {
+.text {
   color: rgba(30, 30, 30, 1);
   height: auto;
   position: absolute;
@@ -60,7 +60,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text002 {
+.text002 {
   top: 23px;
   left: 60px;
   color: rgba(0, 0, 0, 1);
@@ -76,14 +76,14 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-vector1 {
+.vector1 {
   top: 67.71380615234375px;
   left: 235px;
   width: 79px;
   height: 21px;
   position: absolute;
 }
-.home-button {
+.button {
   top: 187.8211669921875px;
   left: 29px;
   width: 74px;
@@ -95,7 +95,7 @@
   border-radius: 10px;
   background-color: rgba(0, 180, 216, 1);
 }
-.home-text004 {
+.text004 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -110,7 +110,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.home-frame1stcard {
+.frame1stcard {
   top: 242.8211669921875px;
   left: 20px;
   width: 335px;
@@ -132,7 +132,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-rectangle1 {
+.rectangle1 {
   top: 0px;
   left: 25px;
   width: 285px;
@@ -141,7 +141,7 @@
   border-color: transparent;
   border-radius: 10px;
 }
-.home-frame1streview {
+.frame1streview {
   top: 32px;
   left: 0px;
   width: 200px;
@@ -161,7 +161,7 @@
   justify-content: flex-start;
   background-color: rgba(255, 255, 255, 1);
 }
-.home-rating {
+.rating {
   top: 71px;
   left: 88px;
   width: 96px;
@@ -181,42 +181,42 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-emojionestar {
+.emojionestar {
   top: 0px;
   left: 0px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar01 {
+.emojionestar01 {
   top: 0px;
   left: 20px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar02 {
+.emojionestar02 {
   top: 0px;
   left: 40px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar03 {
+.emojionestar03 {
   top: 0px;
   left: 60px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar04 {
+.emojionestar04 {
   top: 0px;
   left: 80px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-text006 {
+.text006 {
   top: 15px;
   left: 88px;
   color: rgba(0, 0, 0, 1);
@@ -233,7 +233,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-img {
+.img {
   top: 14px;
   left: 16px;
   width: 64px;
@@ -253,7 +253,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-ellipse1 {
+.ellipse1 {
   top: 0px;
   left: 0px;
   width: 64px;
@@ -261,14 +261,14 @@
   position: absolute;
   border-color: transparent;
 }
-.home-tick {
+.tick {
   top: 0px;
   left: 49px;
   width: 15px;
   height: 15px;
   position: absolute;
 }
-.home-frame2ndreview {
+.frame2ndreview {
   top: 197px;
   left: 134px;
   width: 201px;
@@ -288,7 +288,7 @@
   justify-content: flex-start;
   background-color: rgba(255, 255, 255, 1);
 }
-.home-text008 {
+.text008 {
   top: 14px;
   left: 18px;
   color: rgba(0, 0, 0, 1);
@@ -305,7 +305,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-ellipse2 {
+.ellipse2 {
   top: 11px;
   left: 135px;
   width: 48px;
@@ -313,7 +313,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-rating1 {
+.rating1 {
   top: 40px;
   left: 31px;
   width: 96px;
@@ -333,49 +333,49 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-emojionestar05 {
+.emojionestar05 {
   top: 0px;
   left: 0px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar06 {
+.emojionestar06 {
   top: 0px;
   left: 20px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar07 {
+.emojionestar07 {
   top: 0px;
   left: 40px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar08 {
+.emojionestar08 {
   top: 0px;
   left: 60px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-emojionestar09 {
+.emojionestar09 {
   top: 0px;
   left: 80px;
   width: 16px;
   height: 16px;
   position: absolute;
 }
-.home-tick1 {
+.tick1 {
   top: 11px;
   left: 168px;
   width: 15px;
   height: 15px;
   position: absolute;
 }
-.home-rentrooms {
+.rentrooms {
   top: 556.8211669921875px;
   left: 57px;
   width: 262px;
@@ -397,7 +397,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text010 {
+.text010 {
   left: 7px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -412,14 +412,14 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-vector2 {
+.vector2 {
   top: 50.52618408203125px;
   left: 39.03631591796875px;
   width: 118px;
   height: 8px;
   position: absolute;
 }
-.home-text017 {
+.text017 {
   top: 94.1788330078125px;
   left: 0px;
   width: 262px;
@@ -439,7 +439,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text018 {
+.text018 {
   color: rgba(135, 133, 133, 1);
   width: 262px;
   height: auto;
@@ -454,7 +454,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-yourplaceyourrules {
+.yourplaceyourrules {
   top: 724px;
   left: 61px;
   width: 253px;
@@ -476,7 +476,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text023 {
+.text023 {
   top: 42px;
   left: 0px;
   width: 253px;
@@ -496,7 +496,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text024 {
+.text024 {
   color: rgba(135, 133, 133, 1);
   width: 253px;
   height: auto;
@@ -511,14 +511,14 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-line1 {
+.line1 {
   top: 32px;
   left: 132px;
   width: 12px;
   height: 0px;
   position: absolute;
 }
-.home-text029 {
+.text029 {
   left: 20px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -533,7 +533,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-rentingterms {
+.rentingterms {
   top: 1140px;
   left: 20px;
   width: 335px;
@@ -555,7 +555,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text031 {
+.text031 {
   top: 42px;
   color: rgba(135, 133, 133, 1);
   height: auto;
@@ -570,7 +570,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text040 {
+.text040 {
   left: 58px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -585,7 +585,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-frame2ndimg {
+.frame2ndimg {
   top: 839px;
   left: 0px;
   width: 375px;
@@ -607,7 +607,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-rectangle4 {
+.rectangle4 {
   top: 0px;
   left: 0px;
   width: 375px;
@@ -615,7 +615,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-text042 {
+.text042 {
   top: 20px;
   left: 138px;
   color: rgba(255, 255, 255, 1);
@@ -631,7 +631,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-subletsafely {
+.subletsafely {
   top: 1274px;
   left: 54px;
   width: 267px;
@@ -653,7 +653,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text044 {
+.text044 {
   left: 70px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -668,7 +668,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text046 {
+.text046 {
   top: 42px;
   color: rgba(135, 133, 133, 1);
   height: auto;
@@ -683,7 +683,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-i-m-a-g-e3rdimg {
+.i-m-a-g-e3rdimg {
   top: 1389px;
   left: 0px;
   width: 375px;
@@ -691,7 +691,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-trustedby {
+.trustedby {
   top: 1690px;
   left: 38px;
   width: 299px;
@@ -713,7 +713,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-topcustomers {
+.topcustomers {
   top: 0px;
   left: 0px;
   width: 299px;
@@ -733,7 +733,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text053 {
+.text053 {
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -747,7 +747,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-imgs {
+.imgs {
   top: 29px;
   left: 207px;
   width: 64px;
@@ -767,7 +767,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-ellipse3 {
+.ellipse3 {
   top: 0px;
   left: 0px;
   width: 24px;
@@ -775,7 +775,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-ellipse4 {
+.ellipse4 {
   top: 0px;
   left: 20px;
   width: 24px;
@@ -783,7 +783,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-ellipse5 {
+.ellipse5 {
   top: 0px;
   left: 40px;
   width: 24px;
@@ -791,7 +791,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-carousel {
+.carousel {
   top: 77px;
   left: 7px;
   width: 285px;
@@ -811,7 +811,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-comments {
+.comments {
   top: 0px;
   left: 0px;
   width: 285px;
@@ -831,14 +831,14 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-vector {
+.vector {
   top: 0px;
   left: 0px;
   width: 285px;
   height: 218px;
   position: absolute;
 }
-.home-text058 {
+.text058 {
   top: 20px;
   left: 25px;
   color: rgba(255, 255, 255, 1);
@@ -855,7 +855,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-carouseldots {
+.carouseldots {
   top: 248px;
   left: 129px;
   width: 28px;
@@ -875,7 +875,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-ellipse6 {
+.ellipse6 {
   top: 0px;
   left: 0px;
   width: 8px;
@@ -883,7 +883,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-ellipse7 {
+.ellipse7 {
   top: 0px;
   left: 10px;
   width: 8px;
@@ -891,7 +891,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-ellipse8 {
+.ellipse8 {
   top: 0px;
   left: 20px;
   width: 8px;
@@ -899,7 +899,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-text060 {
+.text060 {
   top: 226px;
   left: 110px;
   color: rgba(0, 0, 0, 1);
@@ -915,7 +915,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-onlinebooking {
+.onlinebooking {
   top: 2039px;
   left: 10px;
   width: 354px;
@@ -937,7 +937,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text062 {
+.text062 {
   left: 103px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -952,7 +952,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text064 {
+.text064 {
   top: 42px;
   color: rgba(135, 133, 133, 1);
   height: auto;
@@ -967,7 +967,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-i-m-a-g-e4thimg {
+.i-m-a-g-e4thimg {
   top: 2288px;
   left: 0px;
   width: 375px;
@@ -975,7 +975,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-privacy {
+.privacy {
   top: 2589px;
   left: 45px;
   width: 285px;
@@ -997,7 +997,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text071 {
+.text071 {
   left: 107px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -1012,7 +1012,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text073 {
+.text073 {
   top: 42px;
   color: rgba(135, 133, 133, 1);
   height: auto;
@@ -1027,7 +1027,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-securepayment {
+.securepayment {
   top: 2154px;
   left: 30px;
   width: 315px;
@@ -1049,7 +1049,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text080 {
+.text080 {
   left: 75px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -1064,7 +1064,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text082 {
+.text082 {
   top: 42px;
   color: rgba(135, 133, 133, 1);
   width: 315px;
@@ -1080,14 +1080,14 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-vector3 {
+.vector3 {
   top: 22.080078125px;
   left: 212px;
   width: 48px;
   height: 15px;
   position: absolute;
 }
-.home-i-m-a-g-e5thimg {
+.i-m-a-g-e5thimg {
   top: 3136px;
   left: 0px;
   width: 375px;
@@ -1095,7 +1095,7 @@
   position: absolute;
   border-color: transparent;
 }
-.home-lookingforroommate {
+.lookingforroommate {
   top: 2704px;
   left: 88px;
   width: 200px;
@@ -1117,7 +1117,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-rentaroom {
+.rentaroom {
   top: 0px;
   left: 0px;
   width: 200px;
@@ -1129,7 +1129,7 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.home-normal {
+.normal {
   top: 0px;
   left: 0px;
   width: 200px;
@@ -1140,7 +1140,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.home-text091 {
+.text091 {
   top: 54px;
   left: 8px;
   color: rgba(0, 0, 0, 1);
@@ -1158,7 +1158,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.home-button1 {
+.button1 {
   top: 108px;
   left: 39px;
   width: 123px;
@@ -1180,7 +1180,7 @@
   justify-content: flex-start;
   background-color: rgba(255, 255, 255, 1);
 }
-.home-text093 {
+.text093 {
   top: 8px;
   left: 22px;
   color: rgba(0, 0, 0, 1);
@@ -1196,7 +1196,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-lookingforroommate1 {
+.lookingforroommate1 {
   top: 2920px;
   left: 88px;
   width: 200px;
@@ -1218,7 +1218,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-rentaroom1 {
+.rentaroom1 {
   top: 0px;
   left: 0px;
   width: 200px;
@@ -1230,7 +1230,7 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.home-normal1 {
+.normal1 {
   top: 0px;
   left: 0px;
   width: 200px;
@@ -1241,7 +1241,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.home-text095 {
+.text095 {
   top: 54px;
   left: 19px;
   color: rgba(0, 0, 0, 1);
@@ -1259,7 +1259,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.home-button2 {
+.button2 {
   top: 108px;
   left: 39px;
   width: 123px;
@@ -1281,7 +1281,7 @@
   justify-content: flex-start;
   background-color: rgba(255, 255, 255, 1);
 }
-.home-text097 {
+.text097 {
   top: 8px;
   left: 24px;
   color: rgba(0, 0, 0, 1);
@@ -1297,7 +1297,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-reviews {
+.reviews {
   top: 3437px;
   left: 70px;
   width: 235px;
@@ -1319,7 +1319,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text099 {
+.text099 {
   left: 13px;
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -1334,7 +1334,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-comment1 {
+.comment1 {
   top: 42px;
   left: 0px;
   width: 235px;
@@ -1354,7 +1354,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text101 {
+.text101 {
   top: 32px;
   left: 24px;
   color: rgba(135, 134, 134, 1);
@@ -1371,21 +1371,21 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-comments1 {
+.comments1 {
   top: 0px;
   left: 0px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.home-comments2 {
+.comments2 {
   top: 116px;
   left: 235px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.home-text103 {
+.text103 {
   top: 148px;
   left: 198px;
   color: rgba(0, 0, 0, 1);
@@ -1401,7 +1401,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-comment2 {
+.comment2 {
   top: 225px;
   left: 0px;
   width: 235px;
@@ -1421,7 +1421,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text105 {
+.text105 {
   top: 32px;
   left: 24px;
   color: rgba(135, 133, 133, 1);
@@ -1438,21 +1438,21 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-comments3 {
+.comments3 {
   top: 0px;
   left: 0px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.home-comments4 {
+.comments4 {
   top: 116px;
   left: 235px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.home-text107 {
+.text107 {
   top: 148px;
   left: 189px;
   color: rgba(0, 0, 0, 1);
@@ -1468,7 +1468,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-comment3 {
+.comment3 {
   top: 408px;
   left: 0px;
   width: 235px;
@@ -1488,7 +1488,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text109 {
+.text109 {
   top: 32px;
   left: 24px;
   color: rgba(135, 133, 133, 1);
@@ -1505,21 +1505,21 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-comments5 {
+.comments5 {
   top: 0px;
   left: 0px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.home-comments6 {
+.comments6 {
   top: 116px;
   left: 235px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.home-text111 {
+.text111 {
   top: 148px;
   left: 183px;
   color: rgba(0, 0, 0, 1);
@@ -1535,7 +1535,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-footer {
+.footer {
   top: 4028px;
   left: 0px;
   width: 375px;
@@ -1557,7 +1557,7 @@
   justify-content: flex-start;
   background-color: rgba(0, 0, 0, 1);
 }
-.home-contact {
+.contact {
   top: 234px;
   left: 207px;
   width: 138px;
@@ -1577,7 +1577,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text113 {
+.text113 {
   top: 105px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1592,7 +1592,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text115 {
+.text115 {
   top: 70px;
   left: 52px;
   color: rgba(255, 255, 255, 1);
@@ -1608,7 +1608,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text117 {
+.text117 {
   top: 35px;
   left: 22px;
   color: rgba(255, 255, 255, 1);
@@ -1624,7 +1624,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text119 {
+.text119 {
   left: 78px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1639,7 +1639,7 @@
   font-stretch: normal;
   text-decoration: underline;
 }
-.home-media {
+.media {
   top: 234px;
   left: 30px;
   width: 87px;
@@ -1659,7 +1659,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text121 {
+.text121 {
   top: 105px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1674,7 +1674,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text123 {
+.text123 {
   top: 70px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1689,7 +1689,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text125 {
+.text125 {
   top: 35px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1704,7 +1704,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text127 {
+.text127 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -1718,7 +1718,7 @@
   font-stretch: normal;
   text-decoration: underline;
 }
-.home-mission {
+.mission {
   top: 20px;
   left: 65px;
   width: 245px;
@@ -1738,7 +1738,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text129 {
+.text129 {
   left: 63px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1753,7 +1753,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text131 {
+.text131 {
   top: 42px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1768,7 +1768,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-company {
+.company {
   top: 113px;
   left: 30px;
   width: 137px;
@@ -1788,7 +1788,7 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-text133 {
+.text133 {
   top: 70px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1803,7 +1803,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text135 {
+.text135 {
   top: 35px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1818,7 +1818,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.home-text137 {
+.text137 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -1832,7 +1832,7 @@
   font-stretch: normal;
   text-decoration: underline;
 }
-.home-socialmedia {
+.socialmedia {
   top: 374px;
   left: 142px;
   width: 92px;
@@ -1852,28 +1852,28 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-linkedinsvgrepocom {
+.linkedinsvgrepocom {
   top: 0px;
   left: 0px;
   width: 20px;
   height: 20px;
   position: absolute;
 }
-.home-instagramsvgrepocom {
+.instagramsvgrepocom {
   top: 0px;
   left: 36px;
   width: 20px;
   height: 20px;
   position: absolute;
 }
-.home-twittersvgrepocom {
+.twittersvgrepocom {
   top: 0px;
   left: 72px;
   width: 20px;
   height: 20px;
   position: absolute;
 }
-.home-copyright {
+.copyright {
   top: 410px;
   left: 132px;
   width: 110px;
@@ -1893,14 +1893,14 @@
   justify-content: flex-start;
   background-color: transparent;
 }
-.home-copyright1 {
+.copyright1 {
   top: 3px;
   left: 0px;
   width: 12px;
   height: 12px;
   position: absolute;
 }
-.home-text139 {
+.text139 {
   left: 12px;
   color: rgba(255, 255, 255, 1);
   height: auto;
